@@ -73,8 +73,9 @@
         "written": true
       }
     },
+    "gitDependency": true,
     "githubWorkflows": true,
-    "jhipsterVersion": "8.7.1",
+    "jhipsterVersion": "8.7.2",
     "js": true,
     "localBlueprint": false,
     "packageJsonType": "module",
